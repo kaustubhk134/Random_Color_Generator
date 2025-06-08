@@ -1,0 +1,15 @@
+body{
+  text-align: center
+}
+
+h1{
+  color: red;
+  text-align: left;
+}
+
+div{
+  height: 250px;
+  width: 500px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
